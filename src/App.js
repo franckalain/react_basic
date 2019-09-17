@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          ceci est un projet react, ok cool
+          ceci est un projet react, ok coolaergzegez
         </a>
       </header>
     </div>
