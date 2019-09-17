@@ -5,7 +5,7 @@ To push a repo from local machine
 
 git init on the local repo
 
-git add README.md
+git add .
 
 git commit -m "first commit"
 
