@@ -3,7 +3,7 @@ Try removing package-lock.json, run npm install and then run npm start again.
 
 To push a repo from local machine
 
-git init
+git init on the local repo
 
 git add README.md
 
